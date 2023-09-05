@@ -1,3 +1,3 @@
-release: sudo apt update
-release: sudo apt install ffmpeg
+release: apt update
+release: apt install ffmpeg
 web: npm run start
